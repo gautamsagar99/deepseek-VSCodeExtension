@@ -2,8 +2,8 @@
 
 All notable changes to the "deepseek-ai" extension will be documented in this file.
 
-Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
 
-## [Unreleased]
 
-- Initial release
+## [FirstRelease]
+
+- This is first release.

@@ -1,6 +1,6 @@
 # deepseek-ai 
 
-This is the README for your extension "deepseek-ai". 
+ "deepseek-ai" VS code Extension provides chat like interface to chat with deep seek AI. 
 
 # Requirements
 
