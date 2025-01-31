@@ -14,5 +14,5 @@ This is the README for your extension "deepseek-ai".
 
 # Preview
 
-![](https://github.com/gautamsagar99/deepseek-VSCodeExtension/blob/master/video.gif?raw=true)
+![](https://github.com/gautamsagar99/deepseek-VSCodeExtension/blob/main/video.gif?raw=true)
 
